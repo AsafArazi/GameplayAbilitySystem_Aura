@@ -75,7 +75,6 @@ void ACheckpoint::HighlightActor_Implementation()
 	{
 		CheckpointMesh->SetRenderCustomDepth(true);
 	}
-	
 }
 
 void ACheckpoint::UnHighlightActor_Implementation()
